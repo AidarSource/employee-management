@@ -10,9 +10,10 @@
 	</parent>
 	<groupId>com.developer</groupId>
 	<artifactId>employee-management</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>employee-management</name>
 	<description>Restful API with Spring Data JPA connected to PostgreSQL</description>
+	<packaging>jar</packaging>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
